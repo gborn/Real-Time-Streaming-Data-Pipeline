@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+kafka-python==2.0.2
+requests==2.20.0
+python-restcountries==2.0.0
